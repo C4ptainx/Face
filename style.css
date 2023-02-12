@@ -553,12 +553,11 @@ nav ul li a{
  
 }
 @media only screen and (max-width: 520px){
-  .v263_51{
-  
-    width: 150px;
-    height: 150px;
-   
-   
+  .v263_51{   
+    width: 350px;
+    top: 52px;
+    left: 266px;
+    height: 350px;
 }
 .v254_20{
   left: 140px;
