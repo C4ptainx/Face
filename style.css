@@ -7,29 +7,25 @@
     text-decoration: none;
    
 }
-body{
+html,body{
     margin: 0;
     box-sizing: border-box;
     overflow-x: hidden;
-  
-    background: rgba(40,62,81,1);
-   
-    overflow: hidden;
 }
-/* -------------INICIO ------
+/* -------------INICIO ------*/
 .v283 {
     margin: 0;
     box-sizing: border-box;
     overflow-x: hidden;
     width: 100%;
-    height: 100%;
+    height: 50%;
     background: rgba(40,62,81,1);
     opacity: 1;
     position: absolute;
     top: 0px;
     left: 0px;
-    overflow: hidden;
-  }-*/
+  
+  }
 .v263_51 {
     width: 378px;
     height: 402px;
