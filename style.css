@@ -553,33 +553,35 @@ nav ul li a{
  
 }
 @media only screen and (max-width: 520px){
-  .v263_51{   
+ .v263_51{
+  
     width: 350px;
     top: 52px;
-    left: 39px;
+    left: 87px;
     height: 350px;
+
 }
 .v254_20{
-  left: 140px;
-  top: 165px;
+  left: 163px;
+  top: 459px;
   font-size: 26px;
 }
 .v254_21 {
-  left: 269px;
+  left: 298px;
   font-size: 26px;
-  top: 165px;
+  top: 459px;
 }
 .v263_44 {
-  top: 169px;
-  left: 243px;
+  top: 462px;
+  left: 269px;
   width: 25px;
   height: 25px;
 }
 .v263_52{
-  left: 205px;
-  top: 218px;
-  width: 30px;
-  height: 20px;
+  left: 240px;
+  top: 574px;
+  width: 40px;
+  height: 33px;
 }
 
 }
