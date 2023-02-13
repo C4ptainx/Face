@@ -25,6 +25,9 @@ html, body{
   
   }
 */
+.content{
+  display: flexbox;
+}
   .v263_51 {
     width: 378px;
     height: 402px;
