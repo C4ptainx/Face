@@ -35,7 +35,7 @@ html, body{
     opacity: 1;
     position: absolute;
     top: 0px;
-    left: 580px;
+    left: 515px;
     overflow: hidden;
 }
 .v254_20 {
@@ -43,7 +43,7 @@ html, body{
     color: rgba(249,244,244,1);
     position: absolute;
     top: 447px;
-    left: 570px;
+    left: 484px;
     font-family: Cutive;
     font-weight: Regular;
     font-size: 70px;
@@ -55,7 +55,7 @@ html, body{
     color: rgba(249,244,244,1);
     position: absolute;
     top: 447px;
-    left: 927px;
+    left: 839px;
     font-family: Cutive;
     font-weight: Regular;
     font-size: 70px;
@@ -72,7 +72,7 @@ html, body{
     opacity: 1;
     position: absolute;
     top: 458px;
-    left: 852px;
+    left: 764px;
     overflow: hidden;
 }
 .v263_52 {
@@ -85,7 +85,7 @@ html, body{
     opacity: 1;
     position: absolute;
     top: 568px;
-    left: 757px;
+    left: 692px;
     overflow: hidden;
 }
 /*--------hoja sesion----------*/
@@ -480,8 +480,8 @@ nav ul li a{
   height: 45px;
 }
 .v263_52{
-  top: 81%;
-  left: 24%;
+  top: 568px;
+  left: 240px;
 }
 }
 
